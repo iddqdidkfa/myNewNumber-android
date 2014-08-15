@@ -2,8 +2,9 @@
 <resources>
 
     <string name="app_name">Мой новый номер</string>
-    <string name="scan_description">Для начала процесса сканирования устаревших номеров нажмите кнопку ниже.</string>
+    <string name="scan_description">Для начала процесса сканирования устаревших номеров потяните экран вниз.</string>
     <string name="scan_btn">Сканировать</string>
     <string name="action_settings">Настройки</string>
+    <string name="phones_list_image">Profile Image</string>
 
 </resources>
